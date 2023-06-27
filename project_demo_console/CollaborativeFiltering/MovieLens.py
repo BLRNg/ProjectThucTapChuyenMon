@@ -6,8 +6,7 @@ import sys
 from surprise import Dataset
 from surprise import Reader
 
-from collections import defaultdict
-import numpy as np
+
 
 class MovieLens:
 
